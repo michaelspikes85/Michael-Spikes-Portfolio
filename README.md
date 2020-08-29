@@ -1,94 +1,45 @@
-# Unit 20 React Homework: React Portfolio
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+# Michael Spikes Portfolio
+#### Author: Michael Spikes
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+My portfolio built with React
 
-## Requirements
+# Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Contributors](#contributors)
+* [License](#license)
 
-* Updated portfolio featuring 6 total projects
+## Installation
 
-* Use React
+npm i for package.json.
+npm start to start server.
 
-* A `Header` component that appears on multiple pages
+## Usage
 
-* A single `Project` component that will be used multiple times on a single page 
+N/A
 
-* Navigation with React Router, dynamic rendering, or another third part router
+## Tests
 
-* A `Footer` component that appears on multiple pages
+N/A
 
-* Update GitHub profile with pinned repositories featuring those same projects
+## Questions
 
-## Grading
+Please email me with any questions.
 
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portoflio      | 90%    |
-| GitHub Profile | 10%    |
+### Picture
+<img src="https://avatars1.githubusercontent.com/u/60369601?s=460&u=880237e4bc8760b2c928cd8e3d686f2103af3b7c&v=4">
 
+### Email 
+michael.spikes85@gmail.com
 
-## Instructions
+## Contributors
 
-  - [Updated Portfolio](#updated-portfolio)
-    - [Design](#design)
-  - [React](#react)
-  - [Updated LinkedIn Profile](#updated-linkedin-profile)
+N/A
 
-### Updated Portfolio
+## License
 
-Your updated site should still have all of the content it previously had:
+<img src="https://img.shields.io/github/license/michaelspikes85/Burger-Tracker?style=plastic">
 
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume with updated projects
-
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * GIF or screenshot of the deployed application
-
-
-#### Design
-
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site. You may we
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-
-### Updated LinkedIn Profile 
-
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
