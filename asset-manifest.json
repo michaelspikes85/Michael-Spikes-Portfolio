@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Michael-Spikes-Portfolio/static/css/main.1201fed7.chunk.css",
+    "main.js": "/Michael-Spikes-Portfolio/static/js/main.cc71e748.chunk.js",
+    "main.js.map": "/Michael-Spikes-Portfolio/static/js/main.cc71e748.chunk.js.map",
+    "runtime-main.js": "/Michael-Spikes-Portfolio/static/js/runtime-main.d4978616.js",
+    "runtime-main.js.map": "/Michael-Spikes-Portfolio/static/js/runtime-main.d4978616.js.map",
+    "static/css/2.11829350.chunk.css": "/Michael-Spikes-Portfolio/static/css/2.11829350.chunk.css",
+    "static/js/2.5ab2cabc.chunk.js": "/Michael-Spikes-Portfolio/static/js/2.5ab2cabc.chunk.js",
+    "static/js/2.5ab2cabc.chunk.js.map": "/Michael-Spikes-Portfolio/static/js/2.5ab2cabc.chunk.js.map",
+    "index.html": "/Michael-Spikes-Portfolio/index.html",
+    "precache-manifest.4bb3198304e97e1182fc4281867541f1.js": "/Michael-Spikes-Portfolio/precache-manifest.4bb3198304e97e1182fc4281867541f1.js",
+    "service-worker.js": "/Michael-Spikes-Portfolio/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Michael-Spikes-Portfolio/static/css/2.11829350.chunk.css.map",
+    "static/css/main.1201fed7.chunk.css.map": "/Michael-Spikes-Portfolio/static/css/main.1201fed7.chunk.css.map",
+    "static/js/2.5ab2cabc.chunk.js.LICENSE.txt": "/Michael-Spikes-Portfolio/static/js/2.5ab2cabc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4978616.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.5ab2cabc.chunk.js",
+    "static/css/main.1201fed7.chunk.css",
+    "static/js/main.cc71e748.chunk.js"
+  ]
+}
