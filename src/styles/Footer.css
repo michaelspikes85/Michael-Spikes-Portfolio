@@ -1,0 +1,9 @@
+.Footer {
+  position: sticky;
+  bottom: 0;
+  background-color: gold !important;
+}
+
+.FooterIcons {
+  font-size: 32px;
+}
